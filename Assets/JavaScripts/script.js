@@ -16,11 +16,11 @@ $(document).ready(() => {
     }
 
     // Use Moment JS to get the time.
-    let currentHour = moment().format('H');
+    let currentHour = parseInt(moment().format('H'));
     if (currentHour < 9) {
         $('.past').addClass('future');
-        $('.past').removeClass('past');
         $('.past').removeClass('present');
+        $('.past').removeClass('past');
     } else if (currentHour > 17) {
         return;
     } else {
