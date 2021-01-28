@@ -1,7 +1,7 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
 ## Deployed Link: 
-https://dragontalker.github.io/BootCamp_Project5_WorkDayScheduler/
+https://dragontalker.github.io/Work_Day_Scheduler/
 
 ## Screenshots
 
