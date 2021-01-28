@@ -1,9 +1,9 @@
-# 05 Third-Party APIs: Work Day Scheduler
+# Dynamic Work Day Scheduler
 
 ## Deployed Link: 
 https://dragontalker.github.io/Work_Day_Scheduler/
 
-## Screenshots
+## Screenshot of UI
 
 This screen shot was taken at 10:07am on Thursday, Jan 28th.
 
