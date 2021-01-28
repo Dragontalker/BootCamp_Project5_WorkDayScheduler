@@ -22,7 +22,10 @@ $(document).ready(() => {
         $('.past').removeClass('present');
         $('.past').removeClass('past');
     } else if (currentHour > 17) {
-        return;
+        for (let i = 9; i < 18; i++) {
+            let pastTimeBlock = `#Ipt-${i}`;
+            $(pastTimeBlock).addClass('past');            
+        }
     } else {
         // Set current time block red
         let currentTimeBlock = `#Ipt-${currentHour}`;
