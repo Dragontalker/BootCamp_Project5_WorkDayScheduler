@@ -1,3 +1,7 @@
+// Display the time of current day
+let today = moment().format('dddd, MMMM Do');
+document.getElementById("currentDay").innerText = today;
+
 $(document).ready(() => {
     // Feature: save the input into local storage to make it appear after refresh
     for (i = 9; i < 18; i++) {
