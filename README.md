@@ -1,7 +1,21 @@
 # Dynamic Work Day Scheduler
 
-## Deployed Link: 
-https://dragontalker.github.io/Work_Day_Scheduler/
+Powered by: 
+![JS](https://aleen42.github.io/badges/src/javascript.svg)
+![VScode](https://aleen42.github.io/badges/src/visual_studio_code.svg)
+
+
+Preview on
+![GH](https://aleen42.github.io/badges/src/github.svg)
+https://dragontalker.github.io/FrontEnd-WorkDayScheduler/
+
+## Tech Used
+* HTML 5
+* CSS 3
+* JavaScript
+* Boostrap 5
+* jQuery
+* Ajax
 
 ## Screenshot of UI
 
